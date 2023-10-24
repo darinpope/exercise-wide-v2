@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/dpope/github/exercise-wide
+cd /Users/dpope/github/exercise-wide-v2
 for i in {2..100}
 do
   n=$(printf %03d $i)

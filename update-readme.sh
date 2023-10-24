@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/dpope/github/exercise-wide
+cd /Users/dpope/github/exercise-wide-v2
 START=1
 END=$((1 + $RANDOM % 90))
 echo "number of iterations $END"
